@@ -1,0 +1,1 @@
+Конвертація sass y css (з папки css) - sass styles.scss styles.css

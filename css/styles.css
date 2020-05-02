@@ -1,0 +1,57 @@
+body .wrapper {
+  padding: 10px;
+}
+body .wrapper nav {
+  background-color: cornflowerblue;
+  margin-bottom: 10px;
+}
+body .wrapper nav a {
+  color: #dbdbdb;
+}
+body .wrapper nav .active {
+  color: white;
+}
+body .wrapper .nav2 {
+  background-color: darkgrey;
+}
+body .img-responsive {
+  margin-top: 10px;
+  width: 100%;
+}
+body footer {
+  background: darkgrey;
+  color: #dbdbdb;
+  font-size: 11px;
+}
+body footer .container {
+  height: 110px;
+  padding: 10px 0;
+}
+body footer .container h3 {
+  border-bottom: 1px solid #919191;
+  color: white;
+  font-size: 14px;
+  line-height: 21px;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+}
+body footer .container p {
+  margin: 5px 0;
+}
+body footer .container .twitter p {
+  padding-right: 15px;
+}
+body footer .container .twitter time a {
+  color: #b4aeae;
+  text-decoration: underline;
+}
+body footer .container a {
+  color: #dbdbdb;
+}
+body footer .container .sitemap a {
+  display: block;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+/*# sourceMappingURL=styles.css.map */
