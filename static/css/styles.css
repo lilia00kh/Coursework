@@ -1,0 +1,58 @@
+body .wrapper {
+  padding: 10px;
+}
+body .wrapper form {
+  background-color: darkgrey;
+  padding: 10px;
+  margin: 10px;
+}
+body .wrapper form label {
+  color: white;
+}
+body .wrapper h3, body .wrapper h4 {
+  margin: 10px;
+  padding: 10px;
+  color: cornflowerblue;
+}
+body .wrapper .ul {
+  color: cornflowerblue;
+}
+body .wrapper p {
+  text-align: left;
+  margin: 10px;
+  padding: 10px;
+}
+body .wrapper img {
+  margin: 10px;
+  padding: 10px;
+}
+body .wrapper nav {
+  background-color: cornflowerblue;
+  margin-bottom: 10px;
+}
+body .wrapper nav a {
+  color: #dbdbdb;
+}
+body .wrapper nav .active {
+  color: white;
+}
+body .wrapper .nav2 {
+  background-color: darkgrey;
+}
+body .img-responsive {
+  margin-top: 10px;
+  width: 100%;
+  height: 100%;
+}
+body footer {
+  background: darkgrey;
+  color: #dbdbdb;
+  font-size: 11px;
+  margin: 10px;
+}
+body footer .container {
+  height: 110px;
+  padding: 10px 0;
+}
+
+/*# sourceMappingURL=styles.css.map */
