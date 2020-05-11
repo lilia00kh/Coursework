@@ -1,57 +1,44 @@
-import React, {useEffect} from 'react';
-import TodoList from "./Todo/TodoList";
-import Context from "./context";
-import AddTodo from "./Todo/AddTodo";
-import Loader from "./Loader";
+import React, {Component} from 'react';
+import MainMenu from "./Todo/MainMenu";
+import {BrowserRouter as Router,Switch,Route,Link,useRouteMatch,useParams} from "react-router-dom";
+import AboutAirport from "./pages/AboutAirport";
+import Services from "./pages/Services";
+import Contacts from "./pages/Contacts";
+
 
 function App() {
-    const [todos,setTodos] = React.useState([])
-    const [loading,SetLoading] = React.useState(true)
-    useEffect(()=>{
-        fetch('https://jsonplaceholder.typicode.com/todos?_limit=5')
-            .then(response => response.json())
-            .then(todos => {
-                setTimeout(()=>{setTodos(todos)},2000   )
-                SetLoading(false)
 
-            })
-    },[])
-    function toggleTodo(id) {
-        setTodos(
-            todos.map(todo =>{
-                if(todo.id===id)
-                {
-                    todo.complited= !todo.complited
-                }
-                return todo
-                }
-            )
-        )
-    }
-    function removeTodo(id) {
-        setTodos(todos.filter(todo => todo.id !== id))
-    }
-    function addTodo(title) {
-        setTodos(todos.concat([
-            {
-                title,
-                id: Date.now(),
-                complited: false
-            }
-        ]))
-    }
+    let links = [
+        { label:'Головна сторінка', link:'/'},
+        { label:'Про аеропорт', link:'/aboutAirport'},
+        { label:'Послуги', link:'/services'},
+        { label:'Контакти', link:'/contacts'}
+    ]
   return (
-      <Context.Provider value={{removeTodo:removeTodo}}>
+      <Router>
           <div className="wrapper">
-              <h1>Hello!</h1>
-              <AddTodo onCreate={addTodo}/>
-
-              {loading && <Loader/> /* якщо грузиться - показувати Loader*/ }
-              {todos.length?(<TodoList todos={todos} onToggle={toggleTodo}/>):loading?null:(<p>No todos</p>)}
-
+              <MainMenu  links={links}/>
+              <div className="bodyContent">
+                  <Switch>
+                      <Route path="/" exact component = {Home}/>
+                      <Route path="/aboutAirport" component = {AboutAirport}/>
+                      <Route path="/services" component = {Services}/>
+                      <Route path="/contacts" component = {Contacts}/>
+                  </Switch>
+              </div>
+              <footer>
+                  <div className="container">
+                  </div>
+              </footer>
           </div>
-      </Context.Provider>
+      </Router>
   );
 }
+
+const Home = ()=>(
+    <div>
+        <h1>hhhhh</h1>
+    </div>
+)
 
 export default App;
