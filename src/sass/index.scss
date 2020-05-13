@@ -1,5 +1,6 @@
 /*sass index.scss index.css*/
 body {
+
   .wrapper{
     .bodyContent{
       position: relative;
@@ -33,11 +34,48 @@ body {
       width: 100%;
       position: relative;
       bottom: 0;
-      background: darkgrey;
+      background: dimgrey;
       color: #dbdbdb;
       font-size: 11px;
       .container {
-        height: 100px;
+        .fa {
+          padding: 20px;
+          font-size: 20px;
+          width: 60px;
+          text-align: center;
+          text-decoration: none;
+          margin: 5px 2px;
+          border-radius: 100%;
+        }
+
+        .fa:hover {
+          opacity: 0.7;
+        }
+
+        .fa-facebook {
+          background: darkgrey;
+          color: white;
+        }
+
+        .fa-twitter {
+          background: darkgrey;
+          color: white;
+        }
+
+        .fa-google {
+          background: darkgrey;
+          color: white;
+        }
+
+        .fa-youtube {
+          background: darkgrey;
+          color: white;
+        }
+
+        .fa-instagram {
+          background: darkgrey;
+          color: white;
+        }
         padding: 10px;
       }
     }

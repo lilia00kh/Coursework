@@ -28,13 +28,44 @@ body .wrapper footer {
   width: 100%;
   position: relative;
   bottom: 0;
-  background: darkgrey;
+  background: dimgrey;
   color: #dbdbdb;
   font-size: 11px;
 }
 body .wrapper footer .container {
-  height: 100px;
   padding: 10px;
+}
+body .wrapper footer .container .fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 100%;
+}
+body .wrapper footer .container .fa:hover {
+  opacity: 0.7;
+}
+body .wrapper footer .container .fa-facebook {
+  background: darkgrey;
+  color: white;
+}
+body .wrapper footer .container .fa-twitter {
+  background: darkgrey;
+  color: white;
+}
+body .wrapper footer .container .fa-google {
+  background: darkgrey;
+  color: white;
+}
+body .wrapper footer .container .fa-youtube {
+  background: darkgrey;
+  color: white;
+}
+body .wrapper footer .container .fa-instagram {
+  background: darkgrey;
+  color: white;
 }
 
 /*# sourceMappingURL=index.css.map */

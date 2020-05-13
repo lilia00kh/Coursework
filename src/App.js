@@ -4,6 +4,7 @@ import {BrowserRouter as Router,Switch,Route,Link,useRouteMatch,useParams} from 
 import AboutAirport from "./pages/AboutAirport";
 import Services from "./pages/Services";
 import Contacts from "./pages/Contacts";
+import Footer from "./Todo/Footer";
 
 
 function App() {
@@ -14,6 +15,13 @@ function App() {
         { label:'Послуги', link:'/services'},
         { label:'Контакти', link:'/contacts'}
     ]
+    let socialNetworks = [
+        {className:'fa fa-facebook',href:'https://www.facebook.com/lvivinternationalairport/'},
+        {className:'fa fa-twitter',href:'https://twitter.com/LwoAero'},
+        {className:'fa fa-youtube',href:'https://www.youtube.com/channel/UCbL5VEu1TQvhlYsVmiIhyPA'},
+        {className:'fa fa-instagram',href:''}
+    ]
+
   return (
       <Router>
           <div className="wrapper">
@@ -27,8 +35,7 @@ function App() {
                   </Switch>
               </div>
               <footer>
-                  <div className="container">
-                  </div>
+                  <Footer socialNetworks={socialNetworks}/>
               </footer>
           </div>
       </Router>
