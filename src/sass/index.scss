@@ -29,7 +29,9 @@ body {
       background-color: darkgrey;
 
     }
-
+    img{
+      padding: 20px;
+    }
     footer {
       width: 100%;
       position: relative;
@@ -37,6 +39,7 @@ body {
       background: dimgrey;
       color: #dbdbdb;
       font-size: 11px;
+
       .container {
         .fa {
           padding: 20px;

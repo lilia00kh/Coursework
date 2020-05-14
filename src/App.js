@@ -9,6 +9,10 @@ import Footer from "./Todo/Footer";
 
 function App() {
 
+    const style = {
+        padding:'10px',
+        margin:'10px'
+    }
     let links = [
         { label:'Головна сторінка', link:'/'},
         { label:'Про аеропорт', link:'/aboutAirport'},
@@ -21,7 +25,12 @@ function App() {
         {className:'fa fa-youtube',href:'https://www.youtube.com/channel/UCbL5VEu1TQvhlYsVmiIhyPA'},
         {className:'fa fa-instagram',href:''}
     ]
-
+    let images=[
+        {src:require('./images/logo-1.png')},
+        {src:require('./images/logo-2.png')},
+        {src:require('./images/logo-3.png')},
+        {src:require('./images/aci.png')},
+    ]
   return (
       <Router>
           <div className="wrapper">
@@ -35,7 +44,7 @@ function App() {
                   </Switch>
               </div>
               <footer>
-                  <Footer socialNetworks={socialNetworks}/>
+                  <Footer socialNetworks={socialNetworks} images={images}/>
               </footer>
           </div>
       </Router>
@@ -44,7 +53,7 @@ function App() {
 
 const Home = ()=>(
     <div>
-        <h1>hhhhh</h1>
+        <h1>Сторінка1</h1>
     </div>
 )
 

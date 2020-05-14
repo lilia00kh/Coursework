@@ -6,13 +6,14 @@ function Footer(props) {
 
     let socialNetworkMarcup = props.socialNetworks.map((socialNetwork,index)=>{
         return(
-                <a href={socialNetwork.href} className={socialNetwork.className} key={index}></a>
+            <a href={socialNetwork.href} className={socialNetwork.className} key={index}></a>
+        )
 
-            // <Link to={link.link}>
-            //     <li className="nav-item" key={index}>
-            //         <a className="nav-link active" >{link.label}</a>
-            //     </li>
-            // </Link>
+    })
+    let imagesMarcup = props.images.map((image,index)=>{
+        return(
+            <img src={image.src} key={index}/>
+
         )
 
     })
@@ -22,6 +23,9 @@ function Footer(props) {
                 <div className="col">
                     <div className="row" >
                         {socialNetworkMarcup}
+                    </div>
+                    <div className="row">
+                        {imagesMarcup}
                     </div>
                 </div>
                 <div className="col"></div>

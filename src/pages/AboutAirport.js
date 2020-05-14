@@ -4,7 +4,7 @@ import '../sass/index.css'
 function AboutAirport() {
     return(
         <div>
-            <h1>Helllo</h1>
+            <h1>Сторінка2</h1>
         </div>
 
     )

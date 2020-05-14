@@ -3,30 +3,7 @@ import '../sass/index.css'
 function Contacts() {
     return(
         <div>
-            <h2>Helllo</h2>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
-            <p>jjjj</p>
+            <h2>Сторінка3</h2>
         </div>
 
     )
