@@ -29,9 +29,7 @@ body {
       background-color: darkgrey;
 
     }
-    img{
-      padding: 20px;
-    }
+
     footer {
       width: 100%;
       position: relative;
@@ -39,7 +37,22 @@ body {
       background: dimgrey;
       color: #dbdbdb;
       font-size: 11px;
-
+      img{
+        padding: 5px;
+        border-radius: 15%;
+      }
+      .row{align-items:center;}
+      .nameOfAirport{
+        background-color: #31373d;
+        text-align: center;
+        p{
+          margin-left:30px;
+          margin-top:10px;
+          color: white;
+          //text-decoration: underline;
+          text-align: justify;
+        }
+      }
       .container {
         .fa {
           padding: 20px;
@@ -80,6 +93,7 @@ body {
           color: white;
         }
         padding: 10px;
+
       }
     }
 

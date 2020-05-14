@@ -31,6 +31,17 @@ function App() {
         {src:require('./images/logo-3.png')},
         {src:require('./images/aci.png')},
     ]
+
+    let contacts=[
+        {contact:"Довідка:",number:"+38 (032) 229 81 12"},
+        {contact:"Приймальня аеропорту:",number:"+38 (032) 229 82 16"},
+        {contact:"Каса аеропорту:",number:"+38 (032) 229 80 73"},
+        {contact:"Медичний пункт:",number:"+38 (032) 229 82 65"},
+        {contact:"Служка розшуку багажу:",number:"+38 (032) 229 81 12"},
+        {contact:"Довідка:",number:"+38 (032) 229 86 37"},
+        {contact:"Бізнес-зал:",number:"+38 (032) 229 86 37"},
+        {contact:"Менеджер із зв`язків з громадськістю:",number:"+38 (032) 229 86 37"},
+    ]
   return (
       <Router>
           <div className="wrapper">
@@ -44,7 +55,7 @@ function App() {
                   </Switch>
               </div>
               <footer>
-                  <Footer socialNetworks={socialNetworks} images={images}/>
+                  <Footer socialNetworks={socialNetworks} images={images} contacts={contacts}/>
               </footer>
           </div>
       </Router>

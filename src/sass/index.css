@@ -24,13 +24,6 @@ body .wrapper nav .ul {
 body .wrapper .nav2 {
   background-color: darkgrey;
 }
-body .wrapper img {
-  padding: 5px;
-  //font-size: 20px;
-  //width: 60px;
-  //margin: 5px 2px;
-  border-radius: 15%;
-}
 body .wrapper footer {
   width: 100%;
   position: relative;
@@ -38,6 +31,23 @@ body .wrapper footer {
   background: dimgrey;
   color: #dbdbdb;
   font-size: 11px;
+}
+body .wrapper footer img {
+  padding: 5px;
+  border-radius: 15%;
+}
+body .wrapper footer .row {
+  align-items: center;
+}
+body .wrapper footer .nameOfAirport {
+  background-color: #31373d;
+  text-align: center;
+}
+body .wrapper footer .nameOfAirport p {
+  margin-left: 30px;
+  margin-top: 10px;
+  color: white;
+  text-align: justify;
 }
 body .wrapper footer .container {
   padding: 10px;
