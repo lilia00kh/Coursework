@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="html_stretched responsive av-preloader-active av-preloader-enabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_large html_header_sticky_disabled html_header_shrinking_disabled html_mobile_menu_tablet html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch html_minimal_header html_minimal_header_shadow html_burger_menu html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-full html_av-submenu-noclone html_entry_id_6214 av-cookies-no-cookie-consent av-no-preview html_burger_menu_active ">
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Worship: Nov. 17, 2019 - Marysville Assembly of God</title>
+		<script>
+            var grsWpUploaderUrl = 'https://www.marysvilleag.com/wp-content/uploads/',
+                grsPluginUrl = 'https://www.marysvilleag.com/wp-content/plugins/limb-gallery',
+                grsShareUrl = 'https://www.marysvilleag.com/wp-admin/admin-ajax.php?action=grsGalleryAjax&grsAction=share',
+                grsAjaxUrl = 'https://www.marysvilleag.com/wp-admin/admin-ajax.php',
+                grsUploaderUrl = 'https://www.marysvilleag.com/wp-content/uploads/limb-gallery/',
+                grsPluginVer = '1.3.2',
+                grsConfig = JSON.parse('{"themes":false,"comments":false,"filmstrip":false,"effects":false,"views":false,"carousel3d":false}');
+		</script>
+        
+<!-- This site is optimized with the Yoast SEO plugin v6.1.1 - https://yoa.st/1yg?utm_content=6.1.1 -->
+<meta name="description" content="Worship: Nov. 17, 2019"/>
+<link rel="canonical" href="https://www.marysvilleag.com/worship-nov-17-2019/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Worship: Nov. 17, 2019 - Marysville Assembly of God" />
+<meta property="og:description" content="Worship: Nov. 17, 2019" />
+<meta property="og:url" content="https://www.marysvilleag.com/worship-nov-17-2019/" />
+<meta property="og:site_name" content="Marysville Assembly of God" />
+<meta property="article:section" content="Worship Services" />
+<meta property="article:published_time" content="2019-11-19T19:04:31-05:00" />
+<meta property="og:image" content="https://www.marysvilleag.com/wp-content/uploads/2017/06/lake-mcdonald-landscape-panorama-sunset-158385.jpeg" />
+<meta property="og:image:secure_url" content="https://www.marysvilleag.com/wp-content/uploads/2017/06/lake-mcdonald-landscape-panorama-sunset-158385.jpeg" />
+<meta property="og:image:width" content="2200" />
+<meta property="og:image:height" content="1466" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Worship: Nov. 17, 2019" />
+<meta name="twitter:title" content="Worship: Nov. 17, 2019 - Marysville Assembly of God" />
+<meta name="twitter:image" content="https://www.marysvilleag.com/wp-content/uploads/2017/06/lake-mcdonald-landscape-panorama-sunset-158385.jpeg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.marysvilleag.com\/","name":"Marysville Assembly of God","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.marysvilleag.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Marysville Assembly of God &raquo; Feed" href="https://www.marysvilleag.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Marysville Assembly of God &raquo; Comments Feed" href="https://www.marysvilleag.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Marysville Assembly of God &raquo; iCal Feed" href="https://www.marysvilleag.com/events/?ical=1" />
+<link rel="alternate" type="application/rss+xml" title="Marysville Assembly of God &raquo; Worship: Nov. 17, 2019 Comments Feed" href="https://www.marysvilleag.com/worship-nov-17-2019/feed/" />
+
+<!-- google webfont font replacement -->
+
+			<script type='text/javascript'>
+
+				(function() {
+					
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+					
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+					
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= '//fonts.googleapis.com/css?family=Josefin+Slab%7CLato:300,400,700';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+			
+			</script>
+					<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.marysvilleag.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.1"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='avia-grid-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/css/grid.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/css/base.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/css/layout.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-audioplayer-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-blog-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-postslider-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-buttonrow-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-fullwidth-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-catalogue-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/catalogue/catalogue.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-comments-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-contact-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-contentpartner-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contentslider/contentslider.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-countdown-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-events-upcoming-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/events_upcoming/events_upcoming.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-hor-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-maps-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/google_maps/google_maps.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gridrow-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-heading-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-rotator-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hr-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icon-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon/icon.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconbox-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconbox/iconbox.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icongrid-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconlist-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-image-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hotspot-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-magazine-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-masonry-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-siteloader-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/css/avia-snippet-site-preloader.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-menu-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-modfule-notification-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-numbers-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-portfolio-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-progress-bar-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-promobox-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/promobox/promobox.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-sc-search-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/search/search.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-accordion-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-feature-image-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullsize-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullscreen-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-ls-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-social-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabsection-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-table-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/table/table.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabs-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-team-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/team/team.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-testimonials-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-timeline-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-toggles-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-video-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='feedzy-rss-feeds-css'  href='https://www.marysvilleag.com/wp-content/plugins/feedzy-rss-feeds/css/feedzy-rss-feeds.css?ver=3.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='grsFrontend.css-css'  href='https://www.marysvilleag.com/wp-content/plugins/limb-gallery/css/grsFrontend.css?ver=1.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/css/shortcodes.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=4.7.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-lightbox-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=4.7.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-widget-css-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=4.7.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://www.marysvilleag.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.marysvilleag.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='https://www.marysvilleag.com/wp-content/uploads/dynamic_avia/enfold_child.css?ver=5e4c25dd97aa1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/css/custom.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-style-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold-child/style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-qtip-css'  href='https://www.marysvilleag.com/wp-content/plugins/google-calendar-events/assets/css/vendor/jquery.qtip.min.css?ver=3.1.12' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-grid-css'  href='https://www.marysvilleag.com/wp-content/plugins/google-calendar-events/assets/css/default-calendar-grid.min.css?ver=3.1.12' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-list-css'  href='https://www.marysvilleag.com/wp-content/plugins/google-calendar-events/assets/css/default-calendar-list.min.css?ver=3.1.12' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-events-cal-css'  href='https://www.marysvilleag.com/wp-content/themes/enfold/config-events-calendar/event-mod.css?ver=5.4.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gadwpUAEventsData = {"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":0,"root_domain":"marysvilleag.com","event_timeout":100,"event_precision":1,"event_formsubmit":0,"ga_pagescrolldepth_tracking":0,"ga_with_gtag":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/plugins/google-analytics-dashboard-for-wp/front/js/tracking-analytics-events.js?ver=5.3.7'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/plugins/limb-gallery/js/angular.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/plugins/limb-gallery/js/angular-touch.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='https://use.fontawesome.com/cc3b90d173.js?ver=1.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var frontTransObj = {"text_077":"There is no images in this gallery","text_078":"Album is empty","text_079":"There is no gallery matching your id or it was deleted","text_080":"There is no album matching your id or it was deleted","Back":"Back","text_094":"Close comments","Name":"Name","Email":"Email","text_081":"Leave a comment","text_095":"Reload captcha","Load more":"Load more","text_082":"Your browser does not support the video tag.","text_083":"Share on Facebook","text_084":"Share on Twitter","text_085":"Share on Google+","text_086":"Share on Pinterest","text_087":"Share on Tumblr","text_088":"Share on Linkedin","text_089":"Share on Reddit","text_090":"Play\/Pause","text_091":"Show\/Hide info","text_092":"Show comments","Close":"Close","text_093":" of "};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/plugins/limb-gallery/js/grsFrontend.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/js/avia-compat.js?ver=4.7.2'></script>
+<link rel='https://api.w.org/' href='https://www.marysvilleag.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.marysvilleag.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.marysvilleag.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.1" />
+<link rel='shortlink' href='https://www.marysvilleag.com/?p=6214' />
+<link rel="alternate" type="application/json+oembed" href="https://www.marysvilleag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.marysvilleag.com%2Fworship-nov-17-2019%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.marysvilleag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.marysvilleag.com%2Fworship-nov-17-2019%2F&#038;format=xml" />
+<meta name="generator" content="Custom Login v3.2.8" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.marysvilleag.com"><link rel="https://theeventscalendar.com/" href="https://www.marysvilleag.com/wp-json/tribe/events/v1/" /><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Marysville Assembly of God RSS2 Feed" href="https://www.marysvilleag.com/feed/" />
+<link rel="pingback" href="https://www.marysvilleag.com/xmlrpc.php" />
+<!--[if lt IE 9]><script src="https://www.marysvilleag.com/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="https://www.marysvilleag.com/wp-content/uploads/2019/02/Marysville-Assembly-of-God-Logo-in-White.png" type="image/png">
+
+<!-- Facebook Pixel Code -->
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+<!-- End Facebook Pixel Code -->
+<script type='text/javascript'>
+  fbq('init', '785984095186019', [], {
+    "agent": "wordpress-5.4.1-1.7.25"
+});
+</script><script type='text/javascript'>
+  fbq('track', 'PageView', []);
+</script>
+<!-- Facebook Pixel Code -->
+<noscript>
+<img height="1" width="1" style="display:none" alt="fbpx"
+src="https://www.facebook.com/tr?id=785984095186019&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-91383972-1', 'auto', {'allowLinker': true});
+  ga('require', 'linker');
+  ga('linker:autoLink', ['www.vibrantyouthministries.com']);
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+		<style type="text/css" id="wp-custom-css">
+			#av-burger-menu-ul li a .avia-menu-text { font-family: lato;
+	font-weight: lighter 
+}
+
+#av-burger-menu-ul li {
+	font-size: 45px
+}
+
+.sidebar_tab, .main_color .tabcontainer .tab {
+    color: white;
+}
+
+		</style>
+		<style id="tt-easy-google-font-styles" type="text/css">p { }
+h1 { }
+h2 { }
+h3 { }
+h4 { }
+h5 { }
+h6 { }
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap'); { }
+</style><style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot');
+src: url('https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype'), 
+url('https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+url('https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+url('https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
+url('https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.7.2
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 4.7.1.1
+aviaElementManager Version: 1.0.1
+- - - - - - - - - - -
+ChildTheme: Enfold Child
+ChildTheme Version: 1.0
+ChildTheme Installed: enfold
+
+ML:200-PU:62-PLA:22
+WP:5.4.1
+Compress: CSS:disabled - JS:disabled
+Updates: disabled
+PLAu:22
+-->
+</head>
+
+
+
+
+<body id="top" class="post-template-default single single-post postid-6214 single-format-audio rtl_columns stretched josefin_slab helvetica-neue-websave helvetica_neue tribe-no-js elementor-default" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	<div class='av-siteloader-wrap av-transition-enabled av-transition-with-logo'><div class='av-siteloader-inner'><div class='av-siteloader-cell'><img class='av-preloading-logo' src='https://www.marysvilleag.com/wp-content/uploads/2019/02/Marysville-Assembly-of-God-Logo-in-Blue-300x300.png' alt='Loading' title='Loading' /><div class='av-siteloader'><div class='av-siteloader-extra'></div></div></div></div></div>
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_large av_header_sticky_disabled av_header_shrinking_disabled av_header_stretch av_mobile_menu_tablet av_header_searchicon_disabled av_header_unstick_top_disabled av_minimal_header av_minimal_header_shadow av_bottom_nav_disabled  av_alternate_logo_active av_header_border_disabled'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='https://www.marysvilleag.com/'><img height='100' width='300' src='https://www.marysvilleag.com/wp-content/uploads/2019/02/Marysville-Assembly-of-God-Logo-in-Blue.png' alt='Marysville Assembly of God' title='' /></a></span><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap av_menu_icon_beside"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-5656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-top-level menu-item-top-level-1"><a href="https://www.marysvilleag.com/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-458" class="slow hover menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-mega-parent  menu-item-top-level menu-item-top-level-2"><a href="https://www.marysvilleag.com/visitors/about-us/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">About Us</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<div class='avia_mega_div avia_mega3 nine units'>
+
+<ul class="sub-menu">
+	<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_3 three units  avia_mega_menu_columns_first"><span class='mega_menu_title heading-color av-special-font'><a href='https://www.marysvilleag.com/visitors/'>Visitors</a></span></li>
+	<li id="menu-item-6695" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_3 three units "><span class='mega_menu_title heading-color av-special-font'><a href='https://www.marysvilleag.com/visitors/about-us/'>Our Pastors</a></span></li>
+	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_3 three units avia_mega_menu_columns_last"><span class='mega_menu_title heading-color av-special-font'><a href='https://www.marysvilleag.com/contact-2/'>Contact</a></span></li>
+</ul>
+
+</div>
+</li>
+<li id="menu-item-457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-mega-parent  menu-item-top-level menu-item-top-level-3"><a href="https://www.marysvilleag.com/visitors/ministries/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Ministries</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<div class='avia_mega_div avia_mega3 nine units'>
+
+<ul class="sub-menu">
+	<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_3 three units  avia_mega_menu_columns_first"><span class='mega_menu_title heading-color av-special-font'><a href='https://www.marysvilleag.com/praise-worship/'>Praise &#038; Worship</a></span></li>
+	<li id="menu-item-1425" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_3 three units "><span class='mega_menu_title heading-color av-special-font'><a href='https://www.marysvilleag.com/visitors/ministries/vibrant-youth-ministries/'>Vibrant Youth Ministries</a></span></li>
+	<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_3 three units avia_mega_menu_columns_last"><span class='mega_menu_title heading-color av-special-font'><a href='https://www.marysvilleag.com/power-source-kids-ministry/'>Vibrant Kids Ministry</a></span></li>
+</ul>
+
+</div>
+</li>
+<li id="menu-item-1400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-mega-parent  menu-item-top-level menu-item-top-level-4"><a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Media</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<div class='avia_mega_div avia_mega4 twelve units'>
+
+<ul class="sub-menu">
+	<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_4 three units  avia_mega_menu_columns_first"><span class='mega_menu_title heading-color av-special-font'><a href='https://www.marysvilleag.com/sermons/'>Live Stream &#038; Sermons</a></span></li>
+	<li id="menu-item-1397" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_4 three units "><span class='mega_menu_title heading-color av-special-font'><a href='https://www.marysvilleag.com/worship-service/'>Worship Services</a></span></li>
+	<li id="menu-item-3700" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_4 three units "><span class='mega_menu_title heading-color av-special-font'><a href='https://www.marysvilleag.com/visitors/ministries/vibrant-youth-ministries/vibrant-insights/'>Vibrant Insights &#8211; Youth Devotions</a></span></li>
+	<li id="menu-item-2816" class="menu-item menu-item-type-post_type menu-item-object-page avia_mega_menu_columns_4 three units avia_mega_menu_columns_last"><span class='mega_menu_title heading-color av-special-font'><a href='https://www.marysvilleag.com/weekly-wisdom-video-devotions/'>Monthly Wisdom &#8211; Adult Devotions</a></span></li>
+</ul>
+
+</div>
+</li>
+<li id="menu-item-403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-mega-parent  menu-item-top-level menu-item-top-level-5"><a href="https://www.marysvilleag.com/events/list/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Events</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-6"><a href="https://www.marysvilleag.com/volunteers/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Volunteers</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-7 current-menu-item"><a href="https://www.marysvilleag.com/pastors-pen/monthly-word/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Monthly Word</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-8"><a href="https://www.marysvilleag.com/online-giving/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Online Giving</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li class="av-burger-menu-main menu-item-avia-special ">
+	        			<a href="#">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+					        <span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+					        </span>
+							</span>
+						</a>
+	        		   </li></ul></div><ul class='noLightbox social_bookmarks icon_count_1'><li class='social_bookmarks_facebook av-social-link-facebook social_icon_1'><a target="_blank" aria-label="Link to Facebook" href='http://www.facebook.com/marysvilleassembly' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Facebook</span></a></li></ul></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' class='all_colors' data-scroll-offset='0'>
+
+	
+		<div class='container_wrap container_wrap_first main_color sidebar_right'>
+
+			<div class='container template-blog template-single-blog '>
+
+				<main class='content units av-content-small alpha  av-blog-meta-author-disabled av-blog-meta-comments-disabled'  role="main" itemscope="itemscope" itemtype="https://schema.org/Blog" >
+
+                    <article class='post-entry post-entry-type-audio post-entry-6214 post-loop-1 post-parity-odd post-entry-last single-big with-slider post-6214 post type-post status-publish format-audio has-post-thumbnail hentry category-worship-services post_format-post-format-audio'  itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost" ><div class="big-preview single-big"><a href="https://www.marysvilleag.com/wp-content/uploads/2017/06/lake-mcdonald-landscape-panorama-sunset-158385-1030x686.jpeg"  title="Worship: Nov. 17, 2019" ><img width="845" height="321" src="https://www.marysvilleag.com/wp-content/uploads/2017/06/lake-mcdonald-landscape-panorama-sunset-158385-845x321.jpeg" class="attachment-entry_with_sidebar size-entry_with_sidebar wp-post-image" alt="Worship: Nov. 17, 2019" /></a></div><div class="big-preview single-big"><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-6214-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://www.marysvilleag.com/wp-content/uploads/2019/11/Sunday-worship-10-17-mp3cut.net_.mp3?_=1" /><a href="https://www.marysvilleag.com/wp-content/uploads/2019/11/Sunday-worship-10-17-mp3cut.net_.mp3">https://www.marysvilleag.com/wp-content/uploads/2019/11/Sunday-worship-10-17-mp3cut.net_.mp3</a></audio></div><div class='blog-meta'></div><div class='entry-content-wrapper clearfix audio-content'><header class="entry-content-header"><span class='post-meta-infos'><time class='date-container minor-meta updated' >November 19, 2019</time><span class='text-sep text-sep-date'>/</span><span class="blog-categories minor-meta">in <a href="https://www.marysvilleag.com/category/worship-services/" rel="tag">Worship Services</a> </span><span class="text-sep text-sep-cat">/</span><span class="blog-author minor-meta">by <span class="entry-author-link" ><span class="vcard author"><span class="fn"><a href="https://www.marysvilleag.com/author/sarah/" title="Posts by Sarah" rel="author">Sarah</a></span></span></span></span></span></header><div class="entry-content"  itemprop="text" ><h3>Recordings Do Not Reflect Actual Live Sound</h3>
+<p>&nbsp;</p>
+<p style="font-size: 16px; font-weight: 400;"><strong>Nov. 17th<br />
+</strong><i></i><em>Love Came Down</em><br />
+<em>Raise a Hallelujah<br />
+All Hail King Jesus</em></p>
+<p><i></i></p>
+<p><em>~ Our weekly worship services at Marysville Assembly of God<br />
+features a diversity of songs from various artists ~</em></p>
+</div><footer class="entry-footer"><div class='av-share-box'><h5 class='av-share-link-description av-no-toc '>Share this entry</h5><ul class='av-share-box-list noLightbox'><li class='av-share-link av-social-link-facebook' ><a target="_blank" aria-label="Share on Facebook" href='https://www.facebook.com/sharer.php?u=https://www.marysvilleag.com/worship-nov-17-2019/&#038;t=' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Facebook' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Share on Facebook</span></a></li><li class='av-share-link av-social-link-twitter' ><a target="_blank" aria-label="Share on Twitter" href='https://twitter.com/share?text=&#038;url=https://www.marysvilleag.com/?p=6214' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Twitter' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Share on Twitter</span></a></li><li class='av-share-link av-social-link-pinterest' ><a target="_blank" aria-label="Share on Pinterest" href='https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.marysvilleag.com%2Fworship-nov-17-2019%2F&#038;description=&#038;media=https%3A%2F%2Fwww.marysvilleag.com%2Fwp-content%2Fuploads%2F2017%2F06%2Flake-mcdonald-landscape-panorama-sunset-158385-705x470.jpeg' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Pinterest' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Share on Pinterest</span></a></li><li class='av-share-link av-social-link-linkedin' ><a target="_blank" aria-label="Share on LinkedIn" href='https://linkedin.com/shareArticle?mini=true&#038;title=&#038;url=https://www.marysvilleag.com/worship-nov-17-2019/' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on LinkedIn' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Share on LinkedIn</span></a></li><li class='av-share-link av-social-link-tumblr' ><a target="_blank" aria-label="Share on Tumblr" href='https://www.tumblr.com/share/link?url=https%3A%2F%2Fwww.marysvilleag.com%2Fworship-nov-17-2019%2F&#038;name=&#038;description=Recordings%20Do%20Not%20Reflect%20Actual%20Live%20Sound%20%C2%A0%20Nov.%2017th%20Love%20Came%20Down%20Raise%20a%20Hallelujah%20All%20Hail%20King%20Jesus%20~%20Our%20weekly%20worship%20services%20at%20Marysville%20Assembly%20of%20God%20features%20a%20diversity%20of%20songs%20from%20various%20artists%20~' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share on Tumblr' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Share on Tumblr</span></a></li><li class='av-share-link av-social-link-mail' ><a  aria-label="Share by Mail" href='mailto:?subject=&#038;body=https://www.marysvilleag.com/worship-nov-17-2019/' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='' data-avia-related-tooltip='Share by Mail'><span class='avia_hidden_link_text'>Share by Mail</span></a></li></ul></div></footer><div class='post_delimiter'></div></div><div class='post_author_timeline'></div><span class='hidden'>
+				<span class='av-structured-data'  itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject" >
+						<span itemprop='url'>https://www.marysvilleag.com/wp-content/uploads/2017/06/lake-mcdonald-landscape-panorama-sunset-158385.jpeg</span>
+						<span itemprop='height'>1466</span>
+						<span itemprop='width'>2200</span>
+				</span>
+				<span class='av-structured-data'  itemprop="publisher" itemtype="https://schema.org/Organization" itemscope="itemscope" >
+						<span itemprop='name'>Sarah</span>
+						<span itemprop='logo' itemscope itemtype='https://schema.org/ImageObject'>
+							<span itemprop='url'>https://www.marysvilleag.com/wp-content/uploads/2019/02/Marysville-Assembly-of-God-Logo-in-Blue.png</span>
+						 </span>
+				</span><span class='av-structured-data'  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person" ><span itemprop='name'>Sarah</span></span><span class='av-structured-data'  itemprop="datePublished" datetime="2019-11-19T19:04:31-05:00" >2019-11-19 19:04:31</span><span class='av-structured-data'  itemprop="dateModified" itemtype="https://schema.org/dateModified" >2019-11-19 19:04:31</span><span class='av-structured-data'  itemprop="mainEntityOfPage" itemtype="https://schema.org/mainEntityOfPage" ><span itemprop='name'>Worship: Nov. 17, 2019</span></span></span></article><div class='single-big'></div>
+
+
+	        	
+	        	
+<div class='comment-entry post-entry'>
+
+
+</div>
+				<!--end content-->
+				</main>
+
+				<aside class='sidebar sidebar_right   alpha units'  role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" ><div class='inner_sidebar extralight-border'><section id="search-3" class="widget clearfix widget_search">
+
+<form action="https://www.marysvilleag.com/" id="searchform" method="get" class="">
+	<div>
+		<input type="submit" value="" id="searchsubmit" class="button avia-font-entypo-fontello" />
+		<input type="text" id="s" name="s" value="" placeholder='Search' />
+			</div>
+</form><span class="seperator extralight-border"></span></section><section id="text-2" class="widget clearfix widget_text"><h3 class="widgettitle">Next Event starting in:</h3>			<div class="textwidget"></div>
+		<span class="seperator extralight-border"></span></section></div></aside>
+
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+		
+
+
+			
+
+			
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'>© and ™ 2019 Marysville Assembly of God | All Rights Reserved </span>
+
+                        <ul class='noLightbox social_bookmarks icon_count_1'><li class='social_bookmarks_facebook av-social-link-facebook social_icon_1'><a target="_blank" aria-label="Link to Facebook" href='http://www.facebook.com/marysvilleassembly' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Facebook</span></a></li></ul>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<a class='avia-post-nav avia-post-prev with-image' href='https://www.marysvilleag.com/weekly-word-nov-18-2019/' >    <span class='label iconfont' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>    <span class='entry-info-wrap'>        <span class='entry-info'>            <span class='entry-title'>Weekly Word: Nov. 18, 2019</span>            <span class='entry-image'><img width="80" height="80" src="https://www.marysvilleag.com/wp-content/uploads/2019/01/branch-christmas-close-up-753728-80x80.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Weekly Word: Nov. 18, 2019" srcset="https://www.marysvilleag.com/wp-content/uploads/2019/01/branch-christmas-close-up-753728-80x80.jpg 80w, https://www.marysvilleag.com/wp-content/uploads/2019/01/branch-christmas-close-up-753728-36x36.jpg 36w, https://www.marysvilleag.com/wp-content/uploads/2019/01/branch-christmas-close-up-753728-180x180.jpg 180w, https://www.marysvilleag.com/wp-content/uploads/2019/01/branch-christmas-close-up-753728-120x120.jpg 120w, https://www.marysvilleag.com/wp-content/uploads/2019/01/branch-christmas-close-up-753728-450x450.jpg 450w" sizes="(max-width: 80px) 100vw, 80px" /></span>        </span>    </span></a><a class='avia-post-nav avia-post-next with-image' href='https://www.marysvilleag.com/weekly-word-nov-25-2019/' >    <span class='label iconfont' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>    <span class='entry-info-wrap'>        <span class='entry-info'>            <span class='entry-image'><img width="80" height="80" src="https://www.marysvilleag.com/wp-content/uploads/2018/11/pexels-pumpkin-coffee-80x80.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Weekly Word: Nov 25, 2019" srcset="https://www.marysvilleag.com/wp-content/uploads/2018/11/pexels-pumpkin-coffee-80x80.jpeg 80w, https://www.marysvilleag.com/wp-content/uploads/2018/11/pexels-pumpkin-coffee-36x36.jpeg 36w, https://www.marysvilleag.com/wp-content/uploads/2018/11/pexels-pumpkin-coffee-180x180.jpeg 180w, https://www.marysvilleag.com/wp-content/uploads/2018/11/pexels-pumpkin-coffee-120x120.jpeg 120w, https://www.marysvilleag.com/wp-content/uploads/2018/11/pexels-pumpkin-coffee-450x450.jpeg 450w" sizes="(max-width: 80px) 100vw, 80px" /></span>            <span class='entry-title'>Weekly Word: Nov 25, 2019</span>        </span>    </span></a><!-- end wrap_all --></div>
+
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://www.marysvilleag.com/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://www.marysvilleag.com/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://www.marysvilleag.com/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"affa9c81b7","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><link rel='stylesheet' id='tribe-events-custom-jquery-styles-css'  href='https://www.marysvilleag.com/wp-content/plugins/the-events-calendar/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css?ver=4.9.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-bootstrap-datepicker-css-css'  href='https://www.marysvilleag.com/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css?ver=4.9.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-calendar-style-css'  href='https://www.marysvilleag.com/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css?ver=4.9.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/js/avia.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/js/shortcodes.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/js/avia-snippet-megamenu.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/js/avia-snippet-site-preloader.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=4.7.2'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/plugins/google-calendar-events/assets/js/vendor/jquery.qtip.min.js?ver=3.1.12'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/plugins/google-calendar-events/assets/js/vendor/moment.min.js?ver=3.1.12'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/plugins/google-calendar-events/assets/js/vendor/moment-timezone-with-data.min.js?ver=3.1.12'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"2fbd89096a","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"2fbd89096a","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/plugins/google-calendar-events/assets/js/default-calendar.min.js?ver=3.1.12'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/themes/enfold/framework/js/conditional_load/avia_google_maps_front.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-content/plugins/google-calendar-events/assets/js/vendor/imagesloaded.pkgd.min.js?ver=3.1.12'></script>
+<script type='text/javascript' src='https://www.marysvilleag.com/wp-includes/js/wp-embed.min.js?ver=5.4.1'></script>
+
+<script type='text/javascript'>
+			
+	(function($) {
+					
+			/*	check if google analytics tracking is disabled by user setting via cookie - or user must opt in.	*/
+					
+			var analytics_code = "<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https:\/\/www.google-analytics.com\/analytics.js','ga');\n\n  ga('create', 'UA-87491905-1', 'auto');\n  ga('send', 'pageview');\n\n<\/script>".replace(/\"/g, '"' );
+			var html = document.getElementsByTagName('html')[0];
+
+			$('html').on( 'avia-cookie-settings-changed', function(e) 
+			{
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+					var script_loaded = $( 'script.google_analytics_scripts' );
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleTrackingDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( ! allow_continue )
+					{ 
+//						window['ga-disable-UA-87491905-1'] = true;
+						if( script_loaded.length > 0 )
+						{
+							script_loaded.remove();
+						}
+					}
+					else
+					{
+						if( script_loaded.length == 0 )
+						{
+							$('head').append( analytics_code );
+						}
+					}
+			});
+			
+			$('html').trigger( 'avia-cookie-settings-changed' );
+						
+	})( jQuery );
+				
+</script></body>
+</html>

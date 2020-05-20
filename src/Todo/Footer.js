@@ -44,14 +44,14 @@ function Footer(props) {
                     <div className="row">
                         <div className="col">
                             <dl>
-                                <dt>Контакти</dt>
-                                {contactsMarcup}
+                                {/*<dt>Контакти</dt>*/}
+                                {/*{contactsMarcup}*/}
                             </dl>
                         </div>
                         <div className="col">
                             <dl>
-                                <dt>Номера</dt>
-                                {numbersMarcup}
+                                {/*<dt>Номера</dt>*/}
+                                {/*{numbersMarcup}*/}
                             </dl>
                         </div>
                     </div>

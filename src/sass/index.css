@@ -1,16 +1,27 @@
 /*sass index.scss index.css*/
+body {
+  font-family: Georgia, serif;
+  color: #3c3c3c;
+  margin-top: 80px;
+}
+body .table {
+  width: 100px;
+}
 body .wrapper .bodyContent {
+  padding: 10px;
   position: relative;
   width: 100%;
   height: 100%;
 }
 body .wrapper nav {
+  z-index: 1000;
+  opacity: 0.6;
   height: 80px;
-  position: relative;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  background-color: cornflowerblue;
+  background: cornflowerblue;
 }
 body .wrapper nav a {
   color: #dbdbdb;
@@ -26,11 +37,10 @@ body .wrapper .nav2 {
 }
 body .wrapper footer {
   width: 100%;
-  position: relative;
   bottom: 0;
   background: dimgrey;
-  color: #dbdbdb;
-  font-size: 11px;
+  font-family: Georgia, serif;
+  color: #3c3c3c;
 }
 body .wrapper footer img {
   padding: 5px;
@@ -44,6 +54,7 @@ body .wrapper footer .nameOfAirport {
   text-align: center;
 }
 body .wrapper footer .nameOfAirport p {
+  font-family: Georgia, serif;
   margin-left: 30px;
   margin-top: 10px;
   color: white;

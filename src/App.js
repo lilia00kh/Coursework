@@ -5,6 +5,11 @@ import AboutAirport from "./pages/AboutAirport";
 import Services from "./pages/Services";
 import Contacts from "./pages/Contacts";
 import Footer from "./Todo/Footer";
+import All from "./pages/All";
+import ReactVirtualizedTable from "./Todo/ReactVirtualizedTable";
+import FloatingActionButtonZoom from "./Todo/Floating"
+import MultilineTextFields from "./Todo/MultilineTextFields"
+
 
 
 function App() {
@@ -17,7 +22,8 @@ function App() {
         { label:'Головна сторінка', link:'/'},
         { label:'Про аеропорт', link:'/aboutAirport'},
         { label:'Послуги', link:'/services'},
-        { label:'Контакти', link:'/contacts'}
+        { label:'Контакти', link:'/contacts'},
+        { label:'Все', link:'/all'},
     ]
     let socialNetworks = [
         {className:'fa fa-facebook',href:'https://www.facebook.com/lvivinternationalairport/'},
@@ -52,6 +58,7 @@ function App() {
                       <Route path="/aboutAirport" component = {AboutAirport}/>
                       <Route path="/services" component = {Services}/>
                       <Route path="/contacts" component = {Contacts}/>
+                      <Route path="/all" component={All}/>
                   </Switch>
               </div>
               <footer>
@@ -64,7 +71,23 @@ function App() {
 
 const Home = ()=>(
     <div>
-        <h1>Сторінка1</h1>
+        <div className="row">
+            <div className="col table">
+                <FloatingActionButtonZoom />
+                <ReactVirtualizedTable/>
+            </div>
+            <div className="col">
+                <img src={require("./images/sky.jpg")}/>
+            </div>
+        </div>
+        <div className="row">
+            <div className="col table">
+                <MultilineTextFields/>
+            </div>
+            {/*<div className="col">*/}
+            {/*    <img src={require("./images/sky.jpg")}/>*/}
+            {/*</div>*/}
+        </div>
     </div>
 )
 

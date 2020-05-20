@@ -11,11 +11,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35872972-636f-4684-9658-08b805a82878" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Todo/CustomPaginationActionsTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/CustomizedTooltips.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/HorizontalLabelPositionBelowStepper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/Icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/ImgMediaCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/SimpleAlerts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/SimpleBottomNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/SimpleCollapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/SimpleTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/TransitionsModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/DSC_4588.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sky1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sky3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sky4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sky5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sky6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/stunning-storm-clouds-wallpaper-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/завантаження.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/All.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Todo/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/MainMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/MainMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AboutAirport.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AboutAirport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Services.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,22 +60,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bldHf3ydBljhFSiz2iPpphH3BV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../react/react-theory" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src\images" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,7 +98,13 @@
       <updated>1589210529115</updated>
       <workItem from="1589210548795" duration="127000" />
       <workItem from="1589387439848" duration="5056000" />
-      <workItem from="1589448887406" duration="10826000" />
+      <workItem from="1589448887406" duration="12300000" />
+      <workItem from="1589467088964" duration="14000" />
+      <workItem from="1589786694282" duration="33000" />
+      <workItem from="1589823830946" duration="4818000" />
+      <workItem from="1589882768487" duration="470000" />
+      <workItem from="1589893422023" duration="14462000" />
+      <workItem from="1589909634323" duration="1580000" />
     </task>
     <servers />
   </component>
@@ -81,10 +123,21 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1589449557774">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589900728255">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589449557774" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1589900728255" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1589896931312">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589896931312" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1589902151357">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589902151357" />
   </component>
 </project>
