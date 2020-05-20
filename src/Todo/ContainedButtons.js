@@ -26,7 +26,7 @@ export default function ContainedButtons() {
             {/*    Disabled*/}
             {/*</Button>*/}
             <Button variant="contained" color="primary" href="#contained-buttons">
-                Link
+                Знайти
             </Button>
         </div>
     );

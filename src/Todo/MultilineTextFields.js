@@ -2,7 +2,6 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import TextField from '@material-ui/core/TextField';
 import TimePickers from "./TimePickers";
-import MaterialUIPickers from "./MaterialUIPickers";
 import ContainedButtons from "./ContainedButtons";
 const useStyles = makeStyles((theme) => ({
     root: {
@@ -27,31 +26,15 @@ export default function MultilineTextFields() {
             <div>
                 <TextField
                     id="outlined-textarea"
-                    label="Multiline Placeholder"
-                    placeholder="Placeholder"
+                    label="Куди"
+                    placeholder="Країна,місто чи аеропорт"
                     multiline
                     variant="outlined"
                 />
                 <TextField
                     id="outlined-textarea"
-                    label="Multiline Placeholder"
-                    placeholder="Placeholder"
-                    multiline
-                    variant="outlined"
-                />
-            </div>
-            <div>
-                <TextField
-                    id="outlined-textarea"
-                    label="Multiline Placeholder"
-                    placeholder="Placeholder"
-                    multiline
-                    variant="outlined"
-                />
-                <TextField
-                    id="outlined-textarea"
-                    label="Multiline Placeholder"
-                    placeholder="Placeholder"
+                    label="Звідки"
+                    placeholder="Країна,місто чи аеропорт"
                     multiline
                     variant="outlined"
                 />
@@ -59,15 +42,15 @@ export default function MultilineTextFields() {
             <div>
                 <TextField
                     id="outlined-textarea"
-                    label="Multiline Placeholder"
-                    placeholder="Placeholder"
+                    label="Туди"
+                    placeholder="Дата"
                     multiline
                     variant="outlined"
                 />
                 <TextField
                     id="outlined-textarea"
-                    label="Multiline Placeholder"
-                    placeholder="Placeholder"
+                    label="Назад"
+                    placeholder="Дата"
                     multiline
                     variant="outlined"
                 />
@@ -79,7 +62,6 @@ export default function MultilineTextFields() {
             </div>
             <ContainedButtons/>
 
-            {/*<MaterialUIPickers/>*/}
         </form>
     );
 }
