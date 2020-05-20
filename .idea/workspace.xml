@@ -11,38 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35872972-636f-4684-9658-08b805a82878" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Todo/CustomPaginationActionsTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/CustomizedTooltips.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/HorizontalLabelPositionBelowStepper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/Icons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/ImgMediaCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/SimpleAlerts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/SimpleBottomNavigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/SimpleCollapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/SimpleTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Todo/TransitionsModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/DSC_4588.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/sky.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/sky1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/sky3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/sky4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/sky5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/sky6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/stunning-storm-clouds-wallpaper-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/завантаження.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/All.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Todo/MainMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/MainMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/AboutAirport.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AboutAirport.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/stunning-storm-clouds-wallpaper-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clouds-1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +79,7 @@
       <workItem from="1589882768487" duration="470000" />
       <workItem from="1589893422023" duration="14462000" />
       <workItem from="1589909634323" duration="1580000" />
+      <workItem from="1590006719670" duration="600000" />
     </task>
     <servers />
   </component>

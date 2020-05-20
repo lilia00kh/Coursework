@@ -5,7 +5,7 @@ body {
   margin-top: 80px;
 }
 body .table {
-  width: 100px;
+  width: 100%;
 }
 body .wrapper .bodyContent {
   padding: 10px;
@@ -15,7 +15,7 @@ body .wrapper .bodyContent {
 }
 body .wrapper nav {
   z-index: 1000;
-  opacity: 0.6;
+  opacity: 0.9;
   height: 80px;
   position: fixed;
   top: 0;
@@ -26,6 +26,13 @@ body .wrapper nav {
 body .wrapper nav a {
   color: #dbdbdb;
 }
+
+body .image-container {
+  padding: 10px;
+  width: 100%;
+  background-size: cover;
+}
+
 body .wrapper nav a .active {
   color: white;
 }
@@ -37,8 +44,8 @@ body .wrapper .nav2 {
 }
 body .wrapper footer {
   width: 100%;
+  background-image: url("../images/sky3.jpg");
   bottom: 0;
-  background: dimgrey;
   font-family: Georgia, serif;
   color: #3c3c3c;
 }

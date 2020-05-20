@@ -9,7 +9,7 @@ import All from "./pages/All";
 import ReactVirtualizedTable from "./Todo/ReactVirtualizedTable";
 import FloatingActionButtonZoom from "./Todo/Floating"
 import MultilineTextFields from "./Todo/MultilineTextFields"
-
+import SlideShow from "./Todo/SlideShow"
 
 
 function App() {
@@ -70,23 +70,23 @@ function App() {
 }
 
 const Home = ()=>(
-    <div>
+    <div className="Home">
         <div className="row">
             <div className="col table">
                 <FloatingActionButtonZoom />
                 <ReactVirtualizedTable/>
             </div>
             <div className="col">
-                <img src={require("./images/sky.jpg")}/>
+                <SlideShow/>
             </div>
         </div>
         <div className="row">
             <div className="col table">
                 <MultilineTextFields/>
             </div>
-            {/*<div className="col">*/}
-            {/*    <img src={require("./images/sky.jpg")}/>*/}
-            {/*</div>*/}
+            <div className="col">
+                {/*<img src={require("./images/clouds-1.jpg")}/>*/}
+            </div>
         </div>
     </div>
 )

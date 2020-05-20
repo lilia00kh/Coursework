@@ -6,7 +6,12 @@ body {
   .table{
     width: 100%;
   }
+
+
   .wrapper{
+    .image-container{
+      padding: 10px;
+    }
     .bodyContent{
       padding: 10px;
       position: relative;
@@ -15,7 +20,7 @@ body {
     }
     nav {
       z-index: 1000;
-      opacity: 0.6;
+      opacity: 0.9;
       height: 80px;
       position: fixed;
       top: 0;
@@ -41,9 +46,8 @@ body {
 
     footer {
       width: 100%;
-
+      background-image: url("../images/sky3.jpg");
       bottom: 0;
-      background: dimgrey;
       font-family: Georgia, serif;
       color: rgb(60, 60, 60);
       img{
