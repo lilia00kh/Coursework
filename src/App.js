@@ -72,12 +72,16 @@ function App() {
 const Home = ()=>(
     <div className="Home">
         <div className="row">
+            <div className="col">
+                <SlideShow/>
+            </div>
             <div className="col table">
                 <FloatingActionButtonZoom />
                 <ReactVirtualizedTable/>
             </div>
             <div className="col">
-                <SlideShow/>
+                <FloatingActionButtonZoom />
+                <ReactVirtualizedTable/>
             </div>
         </div>
         <div className="row">
