@@ -10,6 +10,9 @@ import ReactVirtualizedTable from "./Todo/ReactVirtualizedTable";
 import FloatingActionButtonZoom from "./Todo/Floating"
 import MultilineTextFields from "./Todo/MultilineTextFields"
 import SlideShow from "./Todo/SlideShow"
+import VIP from "./pages/VIP";
+//import ArrivalList from "./components/arrival-list.components"
+
 
 
 function App() {
@@ -23,6 +26,7 @@ function App() {
         { label:'Про аеропорт', link:'/aboutAirport'},
         { label:'Послуги', link:'/services'},
         { label:'Контакти', link:'/contacts'},
+        { label:'VIP', link:'/vip'},
         { label:'Все', link:'/all'},
     ]
     let socialNetworks = [
@@ -54,11 +58,12 @@ function App() {
               <MainMenu  links={links}/>
               <div className="bodyContent">
                   <Switch>
-                      <Route path="/" exact component = {Home}/>
+                      {/*<Route path="/" exact component = {Home}/>*/}
                       <Route path="/aboutAirport" component = {AboutAirport}/>
                       <Route path="/services" component = {Services}/>
                       <Route path="/contacts" component = {Contacts}/>
                       <Route path="/all" component={All}/>
+                      <Route path="/" exact component={Home} />
                   </Switch>
               </div>
               <footer>
@@ -69,7 +74,8 @@ function App() {
   );
 }
 
-const Home = ()=>(
+function Home() {
+return(
     <div className="Home">
         <div className="row">
             <div className="col">
@@ -77,11 +83,8 @@ const Home = ()=>(
             </div>
             <div className="col table">
                 <FloatingActionButtonZoom />
-                <ReactVirtualizedTable/>
             </div>
             <div className="col">
-                <FloatingActionButtonZoom />
-                <ReactVirtualizedTable/>
             </div>
         </div>
         <div className="row">
@@ -94,5 +97,7 @@ const Home = ()=>(
         </div>
     </div>
 )
+}
+
 
 export default App;

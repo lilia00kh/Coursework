@@ -11,12 +11,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35872972-636f-4684-9658-08b805a82878" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/arrival.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/departure.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/arrival.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/departure.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/arrival-list.components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/departure-list.components.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Information.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Transport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/VIP.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/stunning-storm-clouds-wallpaper-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/clouds-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/Floating.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/Floating.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/MainMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/MainMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +62,9 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,7 +74,13 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src\components" />
+      <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src\components\create-edit-components" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src" />
+      <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\backend" />
       <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src\images" />
     </key>
   </component>
@@ -79,7 +103,9 @@
       <workItem from="1589882768487" duration="470000" />
       <workItem from="1589893422023" duration="14462000" />
       <workItem from="1589909634323" duration="1580000" />
-      <workItem from="1590006719670" duration="600000" />
+      <workItem from="1590006719670" duration="11865000" />
+      <workItem from="1590044992125" duration="10035000" />
+      <workItem from="1590080460466" duration="17390000" />
     </task>
     <servers />
   </component>
@@ -102,14 +128,30 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589900728255">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590094896747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1589900728255" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1589896931312">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590094896747" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1590055329247">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589896931312" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590055329247" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1590083246395">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590083246395" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1590083246394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590083246394" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1590083246393">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590083246393" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1590083246394">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590083246394" />
     <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1589902151357">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

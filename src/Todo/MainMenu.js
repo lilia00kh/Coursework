@@ -5,8 +5,8 @@ function MainMenu(props) {
 
     let linksMarcup = props.links.map((link,index)=>{
         return(
-            <Link to={link.link}>
-                <li className="nav-item" key={index}>
+            <Link to={link.link} key={index}>
+                <li className="nav-item" >
                     <a className="nav-link active" >{link.label}</a>
                 </li>
             </Link>
