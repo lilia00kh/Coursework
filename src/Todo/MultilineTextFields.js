@@ -56,9 +56,16 @@ export default function MultilineTextFields() {
                 />
             </div>
             <div>
-                <TimePickers/>
-                <TimePickers/>
-                <TimePickers/>
+                <TextField
+                    id="outlined-textarea"
+                    label="Кількість"
+                    placeholder="Кількість"
+                    multiline
+                    variant="outlined"
+                />
+                {/*<TimePickers/>*/}
+                {/*<TimePickers/>*/}
+                {/*<TimePickers/>*/}
             </div>
             <ContainedButtons/>
 

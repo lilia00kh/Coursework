@@ -11,29 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35872972-636f-4684-9658-08b805a82878" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/models/arrival.model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/models/departure.model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/routes/arrival.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/routes/departure.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/arrival-list.components.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/departure-list.components.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Information.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/VIP.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Todo/Floating.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/Floating.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Todo/MainMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/MainMenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Services.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +85,8 @@
       <workItem from="1589909634323" duration="1580000" />
       <workItem from="1590006719670" duration="11865000" />
       <workItem from="1590044992125" duration="10035000" />
-      <workItem from="1590080460466" duration="17390000" />
+      <workItem from="1590080460466" duration="17695000" />
+      <workItem from="1590100098356" duration="297000" />
     </task>
     <servers />
   </component>

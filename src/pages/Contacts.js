@@ -6,16 +6,6 @@ function Contacts() {
         <div className="wrapper container-fluid">
             <div className="row mainPart">
                 <div className="col">
-                    <nav className="nav2" style={{marginTop:"100px"}}>
-                        <ul className="nav">
-                            <li className="nav-item">
-                                <a className="nav-link active" href="#1">Служби аеропорту</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="#2">Допоміжні служби</a>
-                            </li>
-                        </ul>
-                    </nav>
                     <div className="row">
                         <div className="col">
                             <h3 id="1">Служби аеропорту</h3>

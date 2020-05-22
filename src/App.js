@@ -5,7 +5,6 @@ import AboutAirport from "./pages/AboutAirport";
 import Services from "./pages/Services";
 import Contacts from "./pages/Contacts";
 import Footer from "./Todo/Footer";
-import All from "./pages/All";
 import ReactVirtualizedTable from "./Todo/ReactVirtualizedTable";
 import FloatingActionButtonZoom from "./Todo/Floating"
 import MultilineTextFields from "./Todo/MultilineTextFields"
@@ -26,8 +25,6 @@ function App() {
         { label:'Про аеропорт', link:'/aboutAirport'},
         { label:'Послуги', link:'/services'},
         { label:'Контакти', link:'/contacts'},
-        { label:'VIP', link:'/vip'},
-        { label:'Все', link:'/all'},
     ]
     let socialNetworks = [
         {className:'fa fa-facebook',href:'https://www.facebook.com/lvivinternationalairport/'},
@@ -58,11 +55,9 @@ function App() {
               <MainMenu  links={links}/>
               <div className="bodyContent">
                   <Switch>
-                      {/*<Route path="/" exact component = {Home}/>*/}
                       <Route path="/aboutAirport" component = {AboutAirport}/>
                       <Route path="/services" component = {Services}/>
                       <Route path="/contacts" component = {Contacts}/>
-                      <Route path="/all" component={All}/>
                       <Route path="/" exact component={Home} />
                   </Switch>
               </div>
@@ -81,19 +76,11 @@ return(
             <div className="col">
                 <SlideShow/>
             </div>
-            <div className="col table">
-                <FloatingActionButtonZoom />
-            </div>
-            <div className="col">
-            </div>
         </div>
         <div className="row">
-            <div className="col table">
-                <MultilineTextFields/>
-            </div>
-            <div className="col">
-                {/*<img src={require("./images/clouds-1.jpg")}/>*/}
-            </div>
+            <div className="FloatingActionButtonZoom"><FloatingActionButtonZoom/></div>
+             <div className="MultilineTextFields"> <MultilineTextFields/></div>
+
         </div>
     </div>
 )

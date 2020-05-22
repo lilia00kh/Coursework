@@ -26,8 +26,22 @@ body .wrapper nav {
 body .wrapper nav a {
   color: #dbdbdb;
 }
+.FloatingActionButtonZoom{
+  margin-left: 60px;
+  margin-top: 50px;
 
+}
+.MultilineTextFields{
+  margin-left: 60px;
+  margin-top: 20px;
+}
 body .image-container {
+  padding: 10px;
+  width: 100%;
+  background-size: cover;
+}
+
+body .mainPart {
   padding: 10px;
   width: 100%;
   background-size: cover;
