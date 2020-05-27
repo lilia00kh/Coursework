@@ -1,8 +1,8 @@
 import React from 'react';
+import {Link} from "react-router-dom";
 import { makeStyles } from '@material-ui/core/styles';
-import TextField from '@material-ui/core/TextField';
-import TimePickers from "./TimePickers";
-import ContainedButtons from "./ContainedButtons";
+import Button from '@material-ui/core/Button';
+
 const useStyles = makeStyles((theme) => ({
     root: {
         '& .MuiTextField-root': {
@@ -10,7 +10,13 @@ const useStyles = makeStyles((theme) => ({
             width: '25ch',
         },
     },
+    root1: {
+        '& > *': {
+            margin: theme.spacing(1),
+        },
+    },
 }));
+
 
 export default function MultilineTextFields() {
     const classes = useStyles();
@@ -22,52 +28,6 @@ export default function MultilineTextFields() {
 
     return (
         <form className={classes.root} noValidate autoComplete="off">
-            <h1>Купити квитки</h1>
-            <div>
-                <TextField
-                    id="outlined-textarea"
-                    label="Куди"
-                    placeholder="Країна,місто чи аеропорт"
-                    multiline
-                    variant="outlined"
-                />
-                <TextField
-                    id="outlined-textarea"
-                    label="Звідки"
-                    placeholder="Країна,місто чи аеропорт"
-                    multiline
-                    variant="outlined"
-                />
-            </div>
-            <div>
-                <TextField
-                    id="outlined-textarea"
-                    label="Туди"
-                    placeholder="Дата"
-                    multiline
-                    variant="outlined"
-                />
-                <TextField
-                    id="outlined-textarea"
-                    label="Назад"
-                    placeholder="Дата"
-                    multiline
-                    variant="outlined"
-                />
-            </div>
-            <div>
-                <TextField
-                    id="outlined-textarea"
-                    label="Кількість"
-                    placeholder="Кількість"
-                    multiline
-                    variant="outlined"
-                />
-                {/*<TimePickers/>*/}
-                {/*<TimePickers/>*/}
-                {/*<TimePickers/>*/}
-            </div>
-            <ContainedButtons/>
 
         </form>
     );

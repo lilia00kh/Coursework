@@ -18,7 +18,6 @@ function MainMenu(props) {
             <ul className="nav">
                 {linksMarcup}
             </ul>
-
         </nav>
     )
 }

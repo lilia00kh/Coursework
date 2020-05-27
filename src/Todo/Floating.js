@@ -10,6 +10,7 @@ import Box from '@material-ui/core/Box';
 import ArrivalList from "../components/arrival-list.components";
 import DepartureList from "../components/departure-list.components";
 
+
 function TabPanel(props) {
     const { children, value, index, ...other } = props;
 
@@ -57,6 +58,11 @@ const useStyles = makeStyles((theme) => ({
         backgroundColor: green[500],
         '&:hover': {
             backgroundColor: green[600],
+        },
+    },
+    root1: {
+        '& > *': {
+            margin: theme.spacing(1),
         },
     },
 }));

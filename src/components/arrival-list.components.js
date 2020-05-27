@@ -3,9 +3,9 @@ import axios from 'axios';
 
 const Arrival = props => (
     <tr>
-        <td>{props.arrival.time}</td>
+        <td>{props.arrival.departureTime}</td>
         <td>{props.arrival.company}</td>
-        <td>{props.arrival.way}</td>
+        <td>{props.arrival.wayTo}</td>
     </tr>
 )
 

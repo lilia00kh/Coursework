@@ -9,8 +9,11 @@ import ReactVirtualizedTable from "./Todo/ReactVirtualizedTable";
 import FloatingActionButtonZoom from "./Todo/Floating"
 import MultilineTextFields from "./Todo/MultilineTextFields"
 import SlideShow from "./Todo/SlideShow"
+import BuyTickets from "./components/buyTickets.component";
 import VIP from "./pages/VIP";
-//import ArrivalList from "./components/arrival-list.components"
+import Order from "./pages/Order"
+import Button from "@material-ui/core/Button";
+
 
 
 
@@ -59,6 +62,8 @@ function App() {
                       <Route path="/services" component = {Services}/>
                       <Route path="/contacts" component = {Contacts}/>
                       <Route path="/" exact component={Home} />
+                      <Route path="/buyTickets" component={BuyTickets} />
+                      <Route path="/order" component={Order} />
                   </Switch>
               </div>
               <footer>
@@ -78,9 +83,13 @@ return(
             </div>
         </div>
         <div className="row">
-            <div className="FloatingActionButtonZoom"><FloatingActionButtonZoom/></div>
-             <div className="MultilineTextFields"> <MultilineTextFields/></div>
-
+            <div className="col FloatingActionButtonZoom"><FloatingActionButtonZoom/></div>
+            <div className="col FloatingActionButtonZoom">
+                <h1>Бажаєте знайти квиток?</h1>
+                <Button variant="contained" color="primary" style={ { width:'150px',backgroundColor: '#e9ecef'}}>
+                    <Link to={"/buyTickets"}>Знайти</Link>
+                </Button>
+            </div>
         </div>
     </div>
 )

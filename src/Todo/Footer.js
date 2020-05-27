@@ -12,7 +12,7 @@ function Footer(props) {
     })
     let imagesMarcup = props.images.map((image,index)=>{
         return(
-            <img src={image.src} key={index}/>
+            <img className="awards" src={image.src} key={index}/>
 
         )
 

@@ -3,9 +3,9 @@ import axios from 'axios';
 
 const Departure = props => (
     <tr>
-        <td>{props.departure.time}</td>
+        <td>{props.departure.departureTime}</td>
         <td>{props.departure.company}</td>
-        <td>{props.departure.way}</td>
+        <td>{props.departure.wayFrom}</td>
     </tr>
 )
 
@@ -38,7 +38,7 @@ export default class DepartureList extends Component {
     }
 
     departureList() {
-        console.log(this.state.departure)
+        //console.log(this.state.departure)
         return this.state.departure.map(currentdeparture => {
             return <Departure departure={currentdeparture} deleteDeparture={this.deleteDeparture} key={currentdeparture._id}/>;
         })

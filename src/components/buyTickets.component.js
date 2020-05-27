@@ -3,30 +3,51 @@ import {BrowserRouter as Router,Switch,Route,Link,useRouteMatch,useParams} from 
 import axios from 'axios';
 import TextField from "@material-ui/core/TextField";
 import Moment from "react-moment";
-import Contacts from "../pages/Contacts";
+import ReactVirtualizedTable from "../Todo/ReactVirtualizedTable"
+
+import { makeStyles } from '@material-ui/core/styles';
+import ArrivalList from "./arrival-list.components";
+import DepartureList from "./departure-list.components";
+import AppBar from "@material-ui/core/AppBar";
+import Tabs from "@material-ui/core/Tabs";
+import Tab from "@material-ui/core/Tab";
+import Button from "@material-ui/core/Button";
 
 
 const Way = props => (
-    <tr>
-      <td>{props.way.wayFrom}</td>
-      <td>{props.way.wayTo}</td>
-      <td>{props.way.company}</td>
-      <td>{props.way.departureTime}</td>
-      <td>{props.way.arrivalTime}</td>
-      <td><Moment format="YYYY/MM/DD">
+    <AppBar position="static" color="default" style={{ backgroundColor: 'theme.palette.background.paper',
+        width: '100%',
+        minHeight: '0px',
+        margin:'10px'
+    }}>
+
+    <tr style={{padding:'20px' ,position: 'relative',}}>
+      <td style={{padding:'20px' }}><p style={{textDecoration: 'underline'}}>Куди:</p> {props.way.wayTo}</td>
+      <td style={{padding:'20px' }}> <p style={{textDecoration: 'underline'}}>Звідки:</p> {props.way.wayFrom} </td>
+        <td style={{padding:'20px' }}> <p style={{textDecoration: 'underline'}}>Компанія:</p> {props.way.company} </td>
+        <td style={{padding:'20px' }}><p style={{textDecoration: 'underline'}}> Час відльоту:</p> {props.way.departureTime} </td>
+      <td style={{padding:'20px' }}><p style={{textDecoration: 'underline'}}> Час прильоту: </p>{props.way.arrivalTime} </td>
+      <td style={{padding:'20px' }}><p style={{textDecoration: 'underline'}}> Дата: </p><Moment format="YYYY/MM/DD">
         {props.way.date}
-      </Moment></td>
-      <td>{props.way.price}</td>
-      <td>{props.way.currency}</td>
-      <td><Link to={"/order"}>Вибрати</Link></td>
+      </Moment> </td>
+      <td style={{padding:'20px' }}><p style={{textDecoration: 'underline'}}> Ціна:</p> {props.way.price} {props.way.currency} </td>
+      <td style={{padding:'20px'}}> <Button variant="contained" color="primary" style={ {  padding: '10px', margin: '25px',width:'150px',backgroundColor: 'white', text:'white'}}  > <Link to={"/order"}>Вибрати</Link>      </Button>   </td>
     </tr>
+    </AppBar>
 )
 
 
-export default class EditGoods extends Component {
+export default class BuyTickets extends Component {
   constructor(props) {
     super(props);
-
+    //   const useStyles = makeStyles((theme) => ({
+    //       root: {
+    //           '& > *': {
+    //
+    //           },
+    //       },
+    //   }));
+    // const classes = useStyles();
     this.WayTo = this.WayTo.bind(this);
     this.WayFrom = this.WayFrom.bind(this);
     this.onSubmit = this.onSubmit.bind(this);
@@ -87,67 +108,77 @@ export default class EditGoods extends Component {
       wayFrom: this.state.wayFrom
     }
 
-    console.log(way);
+      if (this.state.wayTo !=="Львів") {
+          axios.post('http://localhost:5000/arrival/find', way)
+              .then(response => {
+                  this.setState({way: response.data})
+              })
+              .catch((error) => {
+                  console.log(error);
+              })
+          console.log(way);
+      }
+      else{
+          axios.post('http://localhost:5000/departure/find', way)
+              .then(response => {
+                  this.setState({way: response.data})
+              })
+              .catch((error) => {
+                  console.log(error);
+              })
+      }
 
-    axios.post('http://localhost:5000/arrival/find', way )
-        .then(response => {
-          this.setState({ way: response.data })
-        })
-        .catch((error) => {
-          console.log(error);
-        })
-    console.log(way);
-    //window.location = '/';
+
   }
 
+
   WayList() {
-    //console.log(this.state.departure)
-    return this.state.way.map(currentWay => {
-      return <Way way={currentWay} key={currentWay._id}/>;
-    })
+          return this.state.way.map(currentWay => {
+              return <Way way={currentWay} key={currentWay._id}/>;
+          })
+
   }
 
   render() {
     return (
-        <Router>
     <div>
-      <h3>Edit Exercise Log</h3>
       <form onSubmit={this.onSubmit}>
         <div className="form-group">
-          <div>
-            <TextField
-                id="outlined-textarea"
-                type="text"
-                required
-                label="Куди"
-                placeholder="Країна,місто чи аеропорт"
-                multiline
-                variant="outlined"
-                value={this.state.wayTo}
-                onChange={this.WayTo}
-            />
-            <TextField
-                id="outlined-textarea"
-                type="text"
-                required
-                label="Звідки"
-                placeholder="Країна,місто чи аеропорт"
-                multiline
-                variant="outlined"
-                value={this.state.wayFrom}
-                onChange={this.WayFrom}
-            />
-          </div>
+            <div>
+                <form noValidate autoComplete="off">
+                    <TextField
+                        id="outlined-textarea"
+                        type="text"
+                        required
+                        label="Куди"
+                        placeholder="Країна,місто чи аеропорт"
+                        variant="outlined"
+                        value={this.state.wayTo}
+                        onChange={this.WayTo}
+                        style={ {  padding: '10px', margin: '10px',width:'200px'}}
+                    />
+                    <TextField
+                        id="outlined-textarea"
+                        type="text"
+                        required
+                        label="Звідки"
+                        placeholder="Країна,місто чи аеропорт"
+                        variant="outlined"
+                        value={this.state.wayFrom}
+                        onChange={this.WayFrom}
+                        style={ {  padding: '10px', margin: '10px',width:'200px'}}
+                    />
+
+                        <input type="submit" value="Знайти" className="btn btn-primary" style={ {  padding: '10px', margin: '25px',width:'150px',backgroundColor: 'cornflowerblue'}}/>
+                </form>
+            </div>
         </div>
 
-        <div className="form-group">
-          <input type="submit" value="Edit Goods Log" className="btn btn-primary" />
-        </div>
-        {this.WayList()}
+          {this.WayList()}
+
       </form>
 
     </div>
-        </Router>
     )
   }
 }

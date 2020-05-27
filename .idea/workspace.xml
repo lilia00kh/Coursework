@@ -11,9 +11,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35872972-636f-4684-9658-08b805a82878" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/models/arrival.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/arrival.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/models/departure.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/models/departure.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/arrival.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/arrival.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/routes/departure.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/departure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/Floating.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/Floating.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/MainMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/MainMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todo/MultilineTextFields.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todo/MultilineTextFields.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/arrival-list.components.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/arrival-list.components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/buyTickets.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/buyTickets.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/departure-list.components.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/departure-list.components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/find.components.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/find.components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Order.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,16 +70,18 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src\components" />
-      <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src\components\create-edit-components" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src\components" />
       <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src" />
       <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\backend" />
       <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src\components" />
+      <recent name="C:\Users\777\Desktop\Програмування\3 курс\react-coursework\src\components\create-edit-components" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -87,6 +107,13 @@
       <workItem from="1590044992125" duration="10035000" />
       <workItem from="1590080460466" duration="17695000" />
       <workItem from="1590100098356" duration="297000" />
+      <workItem from="1590105280573" duration="1975000" />
+      <workItem from="1590133023724" duration="2648000" />
+      <workItem from="1590400424260" duration="351000" />
+      <workItem from="1590404872758" duration="18038000" />
+      <workItem from="1590474250189" duration="15150000" />
+      <workItem from="1590575068786" duration="13270000" />
+      <workItem from="1590589199151" duration="2830000" />
     </task>
     <servers />
   </component>
@@ -109,14 +136,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590094896747">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590420703453">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590094896747" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1590055329247">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590420703453" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1590474270913">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590055329247" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590474270913" />
     <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1590083246395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

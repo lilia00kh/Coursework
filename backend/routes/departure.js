@@ -23,6 +23,15 @@ router.route('/add').post((req, res) => {
         .catch(err => res.status(400).json('Error: ' + err));
 });
 
+router.route('/find').post((req, res) => {
+    //console.log(req.body.wayTo)
+    const wayTo=req.body.wayTo
+    const wayFrom=req.body.wayFrom
+    Departure.find({ wayTo,wayFrom  })
+        .then(arrival => res.json(arrival))
+        .catch(err => res.status(400).json('Error: ' + err));
+});
+
 router.route('/:id').get((req, res) => {
     Departure.findById(req.params.id)
         .then(arrival => res.json(arrival))

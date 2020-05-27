@@ -6,9 +6,22 @@ body {
   .table{
     width: 100%;
   }
+  img{
+    border-radius: 1%;
+    height: 450px;
+    width: 750px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 
   .wrapper{
+    .FloatingActionButtonZoom{
+      padding: 10px;
+      margin: 10px;
+    }
     .image-container{
       padding: 10px;
     }
@@ -27,7 +40,6 @@ body {
       left: 0;
       width: 100%;
       background: cornflowerblue;
-
       a {
         color: #dbdbdb;
         .active {
@@ -50,9 +62,10 @@ body {
       bottom: 0;
       font-family: Georgia, serif;
       color: rgb(60, 60, 60);
-      img{
-        padding: 5px;
+      .awards{
         border-radius: 15%;
+        height: 60px;
+        width: 60px;
       }
       .row{align-items:center;}
       .nameOfAirport{

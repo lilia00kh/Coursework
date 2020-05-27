@@ -2,8 +2,18 @@ const router = require('express').Router();
 let Arrival = require('../models/arrival.model');
 
 router.route('/').get((req, res) => {
+    console.log("iiiii")
     Arrival.find()
-        .then(ships => res.json(ships))
+        .then(arrival => res.json(arrival))
+        .catch(err => res.status(400).json('Error: ' + err));
+});
+
+router.route('/find').post((req, res) => {
+    //console.log(req.body.wayTo)
+    const wayTo=req.body.wayTo
+    const wayFrom=req.body.wayFrom
+    Arrival.find({ wayTo,wayFrom  })
+        .then(arrival => res.json(arrival))
         .catch(err => res.status(400).json('Error: ' + err));
 });
 
@@ -29,6 +39,8 @@ router.route('/add').post((req, res) => {
 });
 
 router.route('/:id').get((req, res) => {
+    console.log("he he he")
+    console.log(req.params.id)
     Arrival.findById(req.params.id)
         .then(arrival => res.json(arrival))
         .catch(err => res.status(400).json('Error: ' + err));
