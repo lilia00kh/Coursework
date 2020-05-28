@@ -6,6 +6,31 @@ body {
   .table{
     width: 100%;
   }
+  .vip{
+    padding: 10px;
+    margin: 10px;
+    h3{
+      padding: 10px;
+      margin: 10px;
+      font-family: Georgia, serif;
+    }
+  }
+  p{
+    padding: 10px;
+    margin: 10px;
+    font-family: Georgia, serif;
+  }
+  .trans{
+    padding: 10px;
+    margin: 10px;
+  }
+  p{
+    padding: 10px;
+    margin: 10px;
+    font-family: Georgia, serif;
+  }
+
+
   img{
     border-radius: 1%;
     height: 450px;
@@ -57,9 +82,12 @@ body {
     }
 
     footer {
+      position: absolute;
+      left: 0;
+      margin-top: 100px;
       width: 100%;
       background-image: url("../images/sky3.jpg");
-      bottom: 0;
+      //bottom: 0;
       font-family: Georgia, serif;
       color: rgb(60, 60, 60);
       .awards{

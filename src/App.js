@@ -24,10 +24,10 @@ function App() {
         margin:'10px'
     }
     let links = [
-        { label:'Головна сторінка', link:'/'},
-        { label:'Про аеропорт', link:'/aboutAirport'},
-        { label:'Послуги', link:'/services'},
-        { label:'Контакти', link:'/contacts'},
+        { label:'Головна сторінка', link:'/#the-hash'},
+        { label:'Про аеропорт', link:'/aboutAirport#the-hash'},
+        { label:'Послуги', link:'/services#the-hash'},
+        { label:'Контакти', link:'/contacts#the-hash'},
     ]
     let socialNetworks = [
         {className:'fa fa-facebook',href:'https://www.facebook.com/lvivinternationalairport/'},
@@ -54,16 +54,18 @@ function App() {
     ]
   return (
       <Router>
-          <div className="wrapper">
-              <MainMenu  links={links}/>
-              <div className="bodyContent">
+          <div className="wrapper" >
+              <MainMenu links={links} />
+              <div className="bodyContent"  >
+                  <div id="the-hash" style={{color:'white'}}><h1>helllo</h1></div>
+                  <div ><h1 style={{color:'white'}}>helllo</h1></div>
                   <Switch>
                       <Route path="/aboutAirport" component = {AboutAirport}/>
                       <Route path="/services" component = {Services}/>
                       <Route path="/contacts" component = {Contacts}/>
                       <Route path="/" exact component={Home} />
                       <Route path="/buyTickets" component={BuyTickets} />
-                      <Route path="/order" component={Order} />
+                      <Route path="/order/:id" component={Order} />
                   </Switch>
               </div>
               <footer>
@@ -76,10 +78,10 @@ function App() {
 
 function Home() {
 return(
-    <div className="Home">
-        <div className="row">
+    <div className="Home" >
+        <div className="row" id="the-hash">
             <div className="col">
-                <SlideShow/>
+                <SlideShow />
             </div>
         </div>
         <div className="row">
@@ -87,7 +89,7 @@ return(
             <div className="col FloatingActionButtonZoom">
                 <h1>Бажаєте знайти квиток?</h1>
                 <Button variant="contained" color="primary" style={ { width:'150px',backgroundColor: '#e9ecef'}}>
-                    <Link to={"/buyTickets"}>Знайти</Link>
+                    <Link to={"/buyTickets#h"}>Знайти</Link>
                 </Button>
             </div>
         </div>

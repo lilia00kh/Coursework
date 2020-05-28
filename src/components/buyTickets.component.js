@@ -3,14 +3,7 @@ import {BrowserRouter as Router,Switch,Route,Link,useRouteMatch,useParams} from 
 import axios from 'axios';
 import TextField from "@material-ui/core/TextField";
 import Moment from "react-moment";
-import ReactVirtualizedTable from "../Todo/ReactVirtualizedTable"
-
-import { makeStyles } from '@material-ui/core/styles';
-import ArrivalList from "./arrival-list.components";
-import DepartureList from "./departure-list.components";
 import AppBar from "@material-ui/core/AppBar";
-import Tabs from "@material-ui/core/Tabs";
-import Tab from "@material-ui/core/Tab";
 import Button from "@material-ui/core/Button";
 
 
@@ -31,7 +24,7 @@ const Way = props => (
         {props.way.date}
       </Moment> </td>
       <td style={{padding:'20px' }}><p style={{textDecoration: 'underline'}}> Ціна:</p> {props.way.price} {props.way.currency} </td>
-      <td style={{padding:'20px'}}> <Button variant="contained" color="primary" style={ {  padding: '10px', margin: '25px',width:'150px',backgroundColor: 'white', text:'white'}}  > <Link to={"/order"}>Вибрати</Link>      </Button>   </td>
+      <td style={{padding:'20px'}}> <Button variant="contained" color="primary" style={ {  padding: '10px', margin: '25px',width:'150px',backgroundColor: 'white', text:'white'}}  > <Link to={"/order/"+props.way.id}>Вибрати</Link>      </Button>   </td>
     </tr>
     </AppBar>
 )
@@ -102,6 +95,7 @@ export default class BuyTickets extends Component {
 
   onSubmit(e) {
     e.preventDefault();
+    console.log(this.state.wayTo)
 
     const way = {
       wayTo: this.state.wayTo,
@@ -142,8 +136,8 @@ export default class BuyTickets extends Component {
   render() {
     return (
     <div>
-      <form onSubmit={this.onSubmit}>
-        <div className="form-group">
+      <form onSubmit={this.onSubmit} >
+        <div className="form-group" id="#h">
             <div>
                 <form noValidate autoComplete="off">
                     <TextField

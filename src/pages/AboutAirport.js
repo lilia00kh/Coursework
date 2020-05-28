@@ -1,14 +1,15 @@
 import React from "react";
 import '../sass/index.css'
-import {Link} from "react-router-dom";
+//import {Link} from "react-router-dom";
 import HorizontalLabelPositionBelowStepper from "../Todo/HorizontalLabelPositionBelowStepper";
+import { HashLink as Link } from 'react-router-hash-link';
 
 function AboutAirport(props) {
     return(
         <div>
-            <div className="row">
+            <div className="row" >
                 <div className="col">
-                    <h3 id="1">Загальна інформація</h3>
+                    <h3 id="1" >Загальна інформація</h3>
                     <p>
                         Міжнародний аеропорт «Львів» імені Данила Галицького — найбільше летовище у Західній Україні за
                         пасажиропотоком та маршрутною мережею, розташоване на відстані 6 км від центру міста на південь.
@@ -36,8 +37,7 @@ function AboutAirport(props) {
                     </p>
                 </div>
             </div>
-            <div className="row">
-                <div className="col">
+            <div className="row" style={{padding:'10px'}}>
                     <h3 id="2"> Як добратися</h3>
                     <p>Міжнародний аеропорт «Львів» ім. Данила Галицького знаходиться у південно-західній частині міста
                         та має зручне розташування щодо основних інфраструктурних об’єктів:
@@ -47,13 +47,10 @@ function AboutAirport(props) {
                             <li>Автовокзал «Львів» (вул. Стрийська, 109) – 5,5 км, приблизно 10 хв. на автомобілі.</li>
                         </ul>
                     </p>
-                </div>
-                <div className="col">
                     <h3 id="3">Карта</h3>
                     <br/>
                     <img src={require('../images/map.png')} style={{ width:800,height:400,margin:20}}>
                     </img>
-                </div>
             </div>
         </div>
     )

@@ -7,6 +7,29 @@ body {
 body .table {
   width: 100%;
 }
+body .vip {
+  padding: 10px;
+  margin: 10px;
+}
+body .vip h3 {
+  padding: 10px;
+  margin: 10px;
+  font-family: Georgia, serif;
+}
+body p {
+  padding: 10px;
+  margin: 10px;
+  font-family: Georgia, serif;
+}
+body .trans {
+  padding: 10px;
+  margin: 10px;
+}
+body p {
+  padding: 10px;
+  margin: 10px;
+  font-family: Georgia, serif;
+}
 body img {
   border-radius: 1%;
   height: 450px;
@@ -52,9 +75,11 @@ body .wrapper .nav2 {
   background-color: darkgrey;
 }
 body .wrapper footer {
+  position: absolute;
+  left: 0;
+  margin-top: 100px;
   width: 100%;
   background-image: url("../images/sky3.jpg");
-  bottom: 0;
   font-family: Georgia, serif;
   color: #3c3c3c;
 }

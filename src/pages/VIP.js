@@ -5,7 +5,7 @@ import Transport from "./Transport";
 import Information from "./Information";
 function VIP() {
     return(
-        <div className="row container">
+        <div className="row container vip">
             <div className="row mainPart">
                 <div className="col">
                     <div className="row">
@@ -63,7 +63,6 @@ function VIP() {
                                     <br/>
                                     Діти до 2 років у супроводі дорослих – оплата не стягується.
                                 </p>
-                                <h3>Інші послуги:</h3>
                                 <ul>
                                     <li>можливість додаткового перебування у Прем’єр VIP залі  протягом 3 годин – 990 UAH</li>
                                     <li>обслуговування зустрічаючої/проводжаючої особи – 990 UAH</li>
@@ -80,24 +79,6 @@ function VIP() {
                                     <li>за одну годину або ії частину – 40 грн. (з ПДВ);</li>
                                     <li>за одну добу або її частину – 400 грн. (з ПДВ).</li>
                                 </ul>
-                            </div>
-                            <div className="row">
-                                <h3>Бронювання VIP-прем’єр залу онлайн</h3>
-                                <h4>Оберіть тип рейсу</h4>
-                                <div className="row">
-                                    <ul>
-                                        <li>
-                                            <Link to={"/services/vip/arrival"}>Приліт</Link>
-                                        </li>
-                                        <li>
-                                            <Link to={"/services/vip/departure"}>Відліт</Link>
-                                        </li>
-                                    </ul>
-                                    <Switch>
-                                        <Route path="/services/vip/arrival" component = {VIP}/>
-                                        <Route path="/services/vip/departure" component = {VIP}/>
-                                    </Switch>
-                                </div>
                             </div>
                         </div>
                     </div>

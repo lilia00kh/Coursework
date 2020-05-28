@@ -5,7 +5,7 @@ import {BrowserRouter as Router, Link, Route, Switch} from "react-router-dom";
 function Transport() {
     return(
         <Router>
-            <div className="row container">
+            <div className="row container trans">
                 <div className="row mainPart">
                     <div className="col">
                         <div className="row">

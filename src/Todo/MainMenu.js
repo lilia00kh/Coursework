@@ -1,5 +1,6 @@
 import React, {Component}  from "react";
-import {Link} from "react-router-dom";
+//import {Link} from "react-router-dom";
+import { HashLink as Link } from 'react-router-hash-link';
 
 function MainMenu(props) {
 
@@ -14,7 +15,7 @@ function MainMenu(props) {
 
     })
     return(
-        <nav className="navbar navbar-default">
+        <nav className="navbar navbar-default" >
             <ul className="nav">
                 {linksMarcup}
             </ul>

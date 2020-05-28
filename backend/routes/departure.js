@@ -23,6 +23,20 @@ router.route('/add').post((req, res) => {
         .catch(err => res.status(400).json('Error: ' + err));
 });
 
+router.route('/update').post((req, res) => {
+
+    let n = 0;
+    Departure.find({id:req.body.idWay})
+        .then(departure => {n =departure[0].countOfFreeSeats
+    Departure.updateOne({id:req.body.idWay},{countOfFreeSeats:(n-req.body.count)})
+        .then(departure =>{
+            console.log(departure)
+            //console.log(departure[0].countOfFreeSeats)
+        })
+        .catch(err => res.status(400).json('Error: ' + err));
+        })
+});
+
 router.route('/find').post((req, res) => {
     //console.log(req.body.wayTo)
     const wayTo=req.body.wayTo
